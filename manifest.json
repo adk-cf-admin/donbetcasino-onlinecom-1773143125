@@ -1,0 +1,19 @@
+{
+  "name": "Donbet Casino",
+  "short_name": "Donbet Casino",
+  "theme_color": "",
+  "background_color": "#141112",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773141328-12524b581dac36fa2.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
